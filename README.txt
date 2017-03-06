@@ -26,6 +26,9 @@ bug:
 compilation done.
 seems to comile hello.c ;D
 
+oh i found that all my patched clang compiler-rt etc,
+was not in this repo. i don't know why, guess that i have to patch work again..
+
 $ clang --version
 clang version 3.9.0 (http://llvm.org/git/clang.git 7b869db6dd2793d9d004b8d210f67d7c5290dcc1) (http://llvm.org/git/llvm.git 080fa5779162278cba5d14dfebdb64993e3a2a84)
 Target: x86_64-alpine-linux-musl
